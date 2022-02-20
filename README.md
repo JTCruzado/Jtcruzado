@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlignedMind
-- 👀 I’m interested in Machine Learning , Mobile application and Game Dev
-- 🌱 I’m currently learning Ionic Angular and Coral ML
-- 💞️ I’m looking to collaborate on Machine Learning Mobile Applications.
+- 👀 I’m interested in Mobile Applications, Full Stack, Game Development
+- 🌱 I’m currently learning Swift, React, Ionic
+- 💞️ I’m looking to collaborate on Mobile Appilication.
 - 📫 How to reach me contact me via Github
 
 <!---
