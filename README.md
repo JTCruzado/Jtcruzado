@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlignedMind
 - 👀 I’m interested in Mobile Applications, Full Stack, Game Development
-- 🌱 I’m currently learning Swift, React, Ionic
+- 🌱 I’m currently learning Swift, React, Ionic, Kotlin 
 - 💞️ I’m looking to collaborate on Mobile Appilication.
 - 📫 How to reach me contact me via Github
 
