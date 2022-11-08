@@ -36,7 +36,7 @@
 <h2>Github Stats<h2>
 <div>
   
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=AlignedMind)](https://github.com/AlignedMind)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alignedmind&show_icons=true&theme=tokyonight)
 
 </div>
 
