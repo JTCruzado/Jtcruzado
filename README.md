@@ -33,7 +33,12 @@
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" alt="Pandas badge">  
 </div>
 
+<h2>Github Stats<h2>
+<div>
+  
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=AlignedMind)](https://github.com/AlignedMind)
 
+</div>
 
 
 
