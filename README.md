@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @AlignedMind
-- 👀 I’m interested in Mobile Applications, Full Stack, Game Development
-- 🌱 I’m currently learning Swift, React, Ionic, Kotlin 
-- 💞️ I’m looking to collaborate on Mobile Appilication.
-- 📫 How to reach me contact me via Github
-
-<!---
-AlignedMind/AlignedMind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/68814413/200618699-ca962fa1-3561-47cc-b539-9b77ebe4b9f0.png" alt="my banner">
+  
+</p>
