@@ -1,7 +1,7 @@
 
 <p align="center">
     
-![Jeremy T  Cruzado-3](https://user-images.githubusercontent.com/68814413/201488267-0641f1cc-bda6-4667-8673-79153170ad07.png)
+![Jeremy T  Cruzado-4](https://user-images.githubusercontent.com/68814413/201488334-f3f5f2b9-5c4c-4c36-8125-44c08b1f2a8e.png)
 
 </p>
   
