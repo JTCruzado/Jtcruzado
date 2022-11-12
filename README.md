@@ -1,7 +1,7 @@
 
 <p align="center">
-  
-<img src="https://user-images.githubusercontent.com/68814413/200629472-98f29894-2fc3-42b9-90a0-bce27af9f406.png" alt="my banner">
+    
+![Jeremy T  Cruzado-3](https://user-images.githubusercontent.com/68814413/201488267-0641f1cc-bda6-4667-8673-79153170ad07.png)
 
 </p>
   
