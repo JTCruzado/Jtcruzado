@@ -36,7 +36,7 @@
 <h2>Github Stats<h2>
 <div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JTCruzdao&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtcruzado&show_icons=true&theme=tokyonight)
 
 </div>
 
